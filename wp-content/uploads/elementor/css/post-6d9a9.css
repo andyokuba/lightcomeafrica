@@ -1,0 +1,120 @@
+.elementor-kit-6{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-d9a5b3c:#336767;--e-global-color-213f82d:#28A745;--e-global-color-959d07a:#F3983F;--e-global-color-a916743:#590F10;--e-global-color-f53bb88:#FFFFFF;--e-global-color-953df7e:#F0EBE7;--e-global-color-11b5da1:#22A84A;--e-global-color-3656749:#424242;--e-global-color-fa3d595:#1B1A1A;--e-global-color-7d68687:#144047;--e-global-color-1c66e5c:#024655;--e-global-typography-primary-font-family:"Asen Pro";--e-global-typography-primary-font-weight:900;--e-global-typography-secondary-font-family:"Asen Pro";--e-global-typography-secondary-font-weight:800;--e-global-typography-text-font-family:"Asen Pro";--e-global-typography-text-font-size:16px;--e-global-typography-text-font-weight:400;--e-global-typography-text-line-height:19.2px;--e-global-typography-accent-font-family:"Asen Pro";--e-global-typography-accent-font-weight:500;font-family:"Asen Pro", Sans-serif;font-weight:400;}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.elementor-kit-6 a{font-family:"Asen Pro", Sans-serif;font-weight:700;}.elementor-kit-6 h1{font-family:"Asen Pro", Sans-serif;font-weight:800;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.e-con{--container-max-width:1200px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;--widgets-spacing-row:20px;--widgets-spacing-column:20px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Asen Pro';
+	font-style: normal;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-Thin.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: normal;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-ExtraLight.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: normal;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-Light.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: normal;
+	font-weight: 400;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-Regular.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: normal;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-Medium.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: normal;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-Semibold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: normal;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-Bold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: normal;
+	font-weight: 800;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-ExtraBold.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: normal;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-Black.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: italic;
+	font-weight: 100;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-ThinItalic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: italic;
+	font-weight: 200;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-ExtraLightItalic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: italic;
+	font-weight: 300;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-LightItalic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: italic;
+	font-weight: 500;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-MediumItalic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: italic;
+	font-weight: 600;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-SemiboldItalic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: italic;
+	font-weight: 700;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-BoldItalic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: italic;
+	font-weight: 800;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-ExtraBoldItalic.woff') format('woff');
+}
+@font-face {
+	font-family: 'Asen Pro';
+	font-style: italic;
+	font-weight: 900;
+	font-display: auto;
+	src: url('../../2024/10/AsenPro-BlackItalic.woff') format('woff');
+}
+/* End Custom Fonts CSS */
